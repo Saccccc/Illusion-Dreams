@@ -13,7 +13,7 @@ PROPOSED FEATURES:
  -Customer should be able to choose between automatic order or manual order among the recieved responses.
  -Add the required item to the database,if unavailable. -Feature to maintain past orders & request a return.
 
-     > Shopkeeper Side Features:
+          > Shopkeeper Side Features:
 -Signup and login. 
 -Feature to add/delete/update predefined product's prices and their count.
 
