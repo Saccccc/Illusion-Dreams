@@ -29,3 +29,4 @@ ADVANCED FEATURES:
  *Live tracking of multiple orders by custiomer.
  *Offers for the regular customer.
  *For delivery,Maintaining time and date for best experience. 
+ *Occasional sale organisation.
