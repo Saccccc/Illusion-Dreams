@@ -27,3 +27,4 @@ ADVANCED FEATURES:
    *Suggestions or reccommendations based on previous orders.
    *Live tracking of multiple orders by custiomer.
    *Offers for the regular customer.
+   *For delivery,Maintaining time and date for best experience.
