@@ -78,6 +78,5 @@ header.header{
     -moz-osx-font-smoothing: grayscale;
   }
   .radio-btn{
-      display: flex;
-      
+      display: flex;   
   }
