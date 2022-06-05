@@ -18,10 +18,10 @@ PROPOSED FEATURES:
 -Signup and login. 
 -Feature to add/delete/update predefined product's prices and their count.
 
--Send requests to shopkeeprs only if that products is available with them.
+-Send requests to shopkeepers only if that products is available with them.
 -Feature to dynamically change the predefined proces of products and/or delivery charges. 
--Real-time updation of products availablibity as per orders accepted.
--Record of all the sales with filters like customer, product,etc.
+-Real-time updation of products availability as per orders accepted.
+-Record of all the sales with filters like customer, product, etc.
 
 ADVANCED FEATURES:
  *Regular customer payment delay option in case of urgent.
